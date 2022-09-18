@@ -1,0 +1,12 @@
+    WEB SYSTEM AND TECHNOLOGIES
+Project Title: Virtual Shop Philippines
+Members: 
+Group III - Doquisa C. Panugao (Leader)
+          - Neumilyn Julie Cortez
+          - April Joyce Benosa
+          - Vanessa Boaquina
+
+Languages Used:
+    Frontend  => PHP, CSS, Ajax, Laravel  
+    Backend   => MYSQL 
+          
